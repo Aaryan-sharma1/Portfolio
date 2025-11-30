@@ -1,6 +1,3 @@
-
-# Personal Portfolio Website — Aaryan Sharma
-
 ## 📌 About Me
 I am **Aaryan Sharma**, currently pursuing **B.Tech in Computer Science & Engineering (1st Semester)** at **Lovely Professional University (LPU)**.
 
@@ -21,17 +18,8 @@ I am passionate about coding, technology, gaming, and improving my development s
    - Folder: **root ( / )**  
 5. Click **Save**
 
-Your site becomes live at:  
-```
-https://<your-username>.github.io/<repo-name>
-```
 
-If your repo name is **aaryansharma.github.io**, your site becomes:
-```
-https://aaryansharma.github.io
-```
-
----
+https://Aaryan-sharma1.github.io/Portfolio
 
 ## 🔧 Technologies Used
 - HTML  
@@ -42,4 +30,4 @@ https://aaryansharma.github.io
 
 ## 📞 Contact
 **Email:** aaryansharma0102@gmail.com  
-**Phone:** 7814758058  
+**Phone:** 9855791125
