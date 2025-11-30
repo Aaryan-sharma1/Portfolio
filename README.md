@@ -8,19 +8,8 @@ I am learning:
 - Git & GitHub  
 
 I am passionate about coding, technology, gaming, and improving my development skills.
-
-## 🌐 Deploy on GitHub Pages (Make it Live)
-1. Create a GitHub repository  
-2. Upload the `index.html` file  
-3. Go to: **Settings → Pages**  
-4. Under *Source*: select  
-   - Branch: **main**  
-   - Folder: **root ( / )**  
-5. Click **Save**
-
-
-https://Aaryan-sharma1.github.io/Portfolio
-
+ 
+ 
 ## 🔧 Technologies Used
 - HTML  
 - CSS  
